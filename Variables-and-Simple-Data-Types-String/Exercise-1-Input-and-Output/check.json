@@ -1,0 +1,39 @@
+{
+    "title": "Exercise 1: Input and Output",
+    "description": "",
+    "filepath": "Variables-and-Simple-Data-Types-String/Exercise-1-Input-and-Output/Exercise-1-Input-and-Output.zip",
+    "author": "",
+    "timeCreated": "2023-10-02T07:43:40.987Z",
+    "timeUpdated": "2023-10-02T07:53:40.051Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "solution": { "title": "", "description": "", "filepath": "" },
+    "templateTests": [
+      {
+        "name": "Jack",
+        "input": "Jack",
+        "output": "What is your name? Hello Jack",
+        "type": "exact",
+        "timeCreated": "2023-10-02T07:43:40.996Z",
+        "timeUpdated": "2023-10-02T07:51:06.276Z"
+      },
+      {
+        "name": "Thomas",
+        "input": "Thomas",
+        "output": "What is your name? Hello Thomas",
+        "type": "exact",
+        "timeCreated": "2023-10-02T07:51:25.346Z",
+        "timeUpdated": "2023-10-02T07:51:25.346Z"
+      },
+      {
+        "name": "asdfOKASD<W!E#($*&!K",
+        "input": "asdfOKASD<W!E#($*&!K",
+        "output": "What is your name? Hello asdfOKASD<W!E#($*&!K",
+        "type": "exact",
+        "timeCreated": "2023-10-02T07:51:43.013Z",
+        "timeUpdated": "2023-10-02T07:51:43.014Z"
+      }
+    ],
+    "unitTests": []
+}
