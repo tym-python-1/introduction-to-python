@@ -1,0 +1,38 @@
+{
+    "title": "Swapping Variables",
+    "description": "",
+    "filepath": "Variables-and-Simple-Data-Types-String/Swapping-Variables/Swapping-Variables.zip",
+    "author": "",
+    "timeCreated": "2023-10-02T08:41:10.207Z",
+    "timeUpdated": "2023-10-02T08:41:10.207Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "1",
+            "input": "5\nY",
+            "output": "a: b: a: Y\nb: 5",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:41:10.217Z",
+            "timeUpdated": "2023-10-02T08:41:10.217Z"
+        },
+        {
+            "name": "2",
+            "input": "1023\n21",
+            "output": "a: b: a: 21\nb: 1023",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:41:10.217Z",
+            "timeUpdated": "2023-10-02T08:41:10.217Z"
+        },
+        {
+            "name": "3",
+            "input": "Young\nMaker",
+            "output": "a: b: a: Maker\nb: Young",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:41:10.217Z",
+            "timeUpdated": "2023-10-02T08:41:10.217Z"
+        }
+    ],
+    "unitTests": []
+}

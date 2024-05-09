@@ -1,0 +1,22 @@
+{
+    "title": "Built-in Functions",
+    "description": "",
+    "filepath": "Python-Introduction/Built-in-Functions/Built-in-Functions.zip",
+    "author": "",
+    "timeCreated": "2023-10-02T07:26:46.213Z",
+    "timeUpdated": "2024-01-13T06:59:18.765Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "Answer",
+            "input": "",
+            "output": "Hello world!\nThe Young Maker",
+            "type": "exact",
+            "timeCreated": "2023-10-02T07:26:46.226Z",
+            "timeUpdated": "2023-10-02T07:26:46.226Z"
+        }
+    ],
+    "unitTests": []
+}

@@ -13,11 +13,6 @@ def run_test(input_data):
 
 def main():
     # Define test cases
-    # test_cases = [
-    #     ("Jack", "What is your name? Hello Jack"),
-    #     ("John", "What is your name? Hello John"),
-    #     # Add more test cases as needed
-    # ]
     with open('check.json') as f:
         test_cases = json.load(f)
         test_cases = test_cases["templateTests"]

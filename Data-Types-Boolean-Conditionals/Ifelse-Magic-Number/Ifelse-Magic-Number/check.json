@@ -1,0 +1,70 @@
+{
+    "title": "If/else: Magic Number",
+    "description": "",
+    "filepath": "Data-Types-Boolean-Conditionals/Ifelse-Magic-Number/Ifelse-Magic-Number.zip",
+    "author": "",
+    "timeCreated": "2023-10-02T08:55:51.075Z",
+    "timeUpdated": "2023-10-02T08:55:51.075Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "Magic Number",
+            "input": "5",
+            "output": "Magic Number",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:55:51.086Z",
+            "timeUpdated": "2023-10-02T08:55:51.086Z"
+        },
+        {
+            "name": "Magic Number",
+            "input": "3",
+            "output": "Magic Number",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:55:51.086Z",
+            "timeUpdated": "2023-10-02T08:55:51.086Z"
+        },
+        {
+            "name": "Magic Number",
+            "input": "7",
+            "output": "Magic Number",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:55:51.086Z",
+            "timeUpdated": "2023-10-02T08:55:51.086Z"
+        },
+        {
+            "name": "Not Magic Number",
+            "input": "13",
+            "output": "Not Magic Number",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:55:51.086Z",
+            "timeUpdated": "2023-10-02T08:55:51.086Z"
+        },
+        {
+            "name": "Not Magic Number",
+            "input": "17",
+            "output": "Not Magic Number",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:55:51.086Z",
+            "timeUpdated": "2023-10-02T08:55:51.086Z"
+        },
+        {
+            "name": "Abracadabra",
+            "input": "15",
+            "output": "Abracadabra",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:55:51.086Z",
+            "timeUpdated": "2023-10-02T08:55:51.086Z"
+        },
+        {
+            "name": "Abracadabra",
+            "input": "30",
+            "output": "Abracadabra",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:55:51.086Z",
+            "timeUpdated": "2023-10-02T08:55:51.086Z"
+        }
+    ],
+    "unitTests": []
+}

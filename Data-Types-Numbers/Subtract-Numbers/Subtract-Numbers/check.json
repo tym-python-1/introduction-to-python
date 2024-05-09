@@ -1,0 +1,38 @@
+{
+    "title": "Subtract Numbers",
+    "description": "",
+    "filepath": "Data-Types-Numbers/Subtract-Numbers/Subtract-Numbers.zip",
+    "author": "",
+    "timeCreated": "2023-10-02T08:22:34.346Z",
+    "timeUpdated": "2023-10-02T08:27:52.346Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "5 3",
+            "input": "5\n3",
+            "output": "2",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:25:41.753Z",
+            "timeUpdated": "2023-10-02T08:25:41.753Z"
+        },
+        {
+            "name": "10 7",
+            "input": "10\n7",
+            "output": "3",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:26:15.204Z",
+            "timeUpdated": "2023-10-02T08:26:15.204Z"
+        },
+        {
+            "name": "10000 3",
+            "input": "10000\n3",
+            "output": "9997",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:26:31.124Z",
+            "timeUpdated": "2023-10-02T08:26:31.124Z"
+        }
+    ],
+    "unitTests": []
+}

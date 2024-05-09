@@ -1,0 +1,22 @@
+{
+    "title": "Printing String",
+    "description": "",
+    "filepath": "Variables-and-Simple-Data-Types-String/Printing-String/Printing-String.zip",
+    "author": "",
+    "timeCreated": "2023-10-02T08:06:33.851Z",
+    "timeUpdated": "2023-10-02T08:06:33.851Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "Answer",
+            "input": "",
+            "output": "Hello world!\nThis is my first simple output program.\nprint ('This is what I should be printing')",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:06:33.860Z",
+            "timeUpdated": "2023-10-02T08:06:33.860Z"
+        }
+    ],
+    "unitTests": []
+}

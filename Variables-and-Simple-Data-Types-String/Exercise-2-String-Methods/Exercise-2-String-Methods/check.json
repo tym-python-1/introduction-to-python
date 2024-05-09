@@ -1,0 +1,38 @@
+{
+    "title": "Exercise 2: String Methods",
+    "description": "",
+    "filepath": "Variables-and-Simple-Data-Types-String/Exercise-2-String-Methods/Exercise-2-String-Methods.zip",
+    "author": "",
+    "timeCreated": "2023-10-02T07:54:24.126Z",
+    "timeUpdated": "2023-10-02T08:03:17.777Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "tHe YoUng mAkER",
+            "input": "tHe YoUng mAkER",
+            "output": "Uppercase: THE YOUNG MAKER\nLowercase: the young maker\nTitle Case: The Young Maker",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:00:25.363Z",
+            "timeUpdated": "2023-10-02T08:00:25.363Z"
+        },
+        {
+            "name": "AbCDEFGhiJKl",
+            "input": "AbCDEFGhiJKl",
+            "output": "Uppercase: ABCDEFGHIJKL\nLowercase: abcdefghijkl\nTitle Case: Abcdefghijkl",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:01:13.452Z",
+            "timeUpdated": "2023-10-02T08:01:13.452Z"
+        },
+        {
+            "name": "tWo WorDs",
+            "input": "tWo WorDs",
+            "output": "Uppercase: TWO WORDS\nLowercase: two words\nTitle Case: Two Words",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:01:44.826Z",
+            "timeUpdated": "2023-10-02T08:01:44.826Z"
+        }
+    ],
+    "unitTests": []
+}

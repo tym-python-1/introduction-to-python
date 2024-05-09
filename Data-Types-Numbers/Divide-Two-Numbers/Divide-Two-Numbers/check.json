@@ -1,0 +1,38 @@
+{
+    "title": "Divide Two Numbers",
+    "description": "",
+    "filepath": "Data-Types-Numbers/Divide-Two-Numbers/Divide-Two-Numbers.zip",
+    "author": "",
+    "timeCreated": "2023-10-02T08:32:25.393Z",
+    "timeUpdated": "2023-10-02T08:36:55.815Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "10 2",
+            "input": "10\n2",
+            "output": "5.0",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:32:25.405Z",
+            "timeUpdated": "2023-10-02T08:33:58.110Z"
+        },
+        {
+            "name": "10 5",
+            "input": "10\n5",
+            "output": "2.0",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:32:25.405Z",
+            "timeUpdated": "2023-10-02T08:34:05.780Z"
+        },
+        {
+            "name": "100 10",
+            "input": "100\n10",
+            "output": "10.0",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:32:25.405Z",
+            "timeUpdated": "2023-10-02T08:34:29.673Z"
+        }
+    ],
+    "unitTests": []
+}

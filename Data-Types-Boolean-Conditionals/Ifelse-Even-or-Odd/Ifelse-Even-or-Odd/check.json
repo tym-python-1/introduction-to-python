@@ -1,0 +1,62 @@
+{
+    "title": "If/else: Even or Odd",
+    "description": "",
+    "filepath": "Data-Types-Boolean-Conditionals/Ifelse-Even-or-Odd/Ifelse-Even-or-Odd.zip",
+    "author": "",
+    "timeCreated": "2023-10-02T08:47:03.061Z",
+    "timeUpdated": "2023-10-02T08:52:45.822Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "3",
+            "input": "3",
+            "output": "Odd",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:47:03.071Z",
+            "timeUpdated": "2023-10-02T08:47:03.071Z"
+        },
+        {
+            "name": "33",
+            "input": "33",
+            "output": "Odd",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:47:03.071Z",
+            "timeUpdated": "2023-10-02T08:47:03.071Z"
+        },
+        {
+            "name": "2",
+            "input": "2",
+            "output": "Even",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:47:03.071Z",
+            "timeUpdated": "2023-10-02T08:47:03.071Z"
+        },
+        {
+            "name": "200",
+            "input": "200",
+            "output": "Even",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:47:03.071Z",
+            "timeUpdated": "2023-10-02T08:47:03.071Z"
+        },
+        {
+            "name": "-3",
+            "input": "-3",
+            "output": "Odd",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:47:03.071Z",
+            "timeUpdated": "2023-10-02T08:47:03.071Z"
+        },
+        {
+            "name": "-10",
+            "input": "-10",
+            "output": "Even",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:47:03.071Z",
+            "timeUpdated": "2023-10-02T08:47:03.071Z"
+        }
+    ],
+    "unitTests": []
+}

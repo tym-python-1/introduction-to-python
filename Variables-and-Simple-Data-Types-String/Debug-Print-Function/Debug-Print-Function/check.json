@@ -1,0 +1,22 @@
+{
+    "title": "Debug Print Function",
+    "description": "",
+    "filepath": "Variables-and-Simple-Data-Types-String/Debug-Print-Function/Debug-Print-Function.zip",
+    "author": "",
+    "timeCreated": "2023-10-02T08:06:44.428Z",
+    "timeUpdated": "2023-10-02T08:06:44.428Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "Answer",
+            "input": "",
+            "output": "Lesson 1 - Output String\nString Concatenation is done with the \"+\" sign.\ne.g. print(\"Hello \" + \"world\")\nHow do i print \"double quotes\" or 'single quotes'?",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:06:44.441Z",
+            "timeUpdated": "2023-10-02T08:06:44.441Z"
+        }
+    ],
+    "unitTests": []
+}

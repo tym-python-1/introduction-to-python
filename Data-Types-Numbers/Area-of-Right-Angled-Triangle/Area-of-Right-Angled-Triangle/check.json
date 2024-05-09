@@ -1,0 +1,46 @@
+{
+    "title": "Area of Right-Angled Triangle",
+    "description": "",
+    "filepath": "Data-Types-Numbers/Area-of-Right-Angled-Triangle/Area-of-Right-Angled-Triangle.zip",
+    "author": "",
+    "timeCreated": "2023-10-02T08:38:06.484Z",
+    "timeUpdated": "2023-10-02T08:38:06.484Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "3 5",
+            "input": "3\n5",
+            "output": "7.5",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:38:06.493Z",
+            "timeUpdated": "2023-10-02T08:38:06.493Z"
+        },
+        {
+            "name": "5 10",
+            "input": "5\n10",
+            "output": "25.0",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:38:06.494Z",
+            "timeUpdated": "2023-10-02T08:38:06.493Z"
+        },
+        {
+            "name": "179 1534",
+            "input": "179\n1534",
+            "output": "137293.0",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:38:06.494Z",
+            "timeUpdated": "2023-10-02T08:38:06.493Z"
+        },
+        {
+            "name": "12302 123120",
+            "input": "12302\n123120",
+            "output": "757311120.0",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:38:06.494Z",
+            "timeUpdated": "2023-10-02T08:38:06.493Z"
+        }
+    ],
+    "unitTests": []
+}

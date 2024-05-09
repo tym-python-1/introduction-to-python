@@ -1,0 +1,38 @@
+{
+    "title": "Multiply Two Numbers",
+    "description": "",
+    "filepath": "Data-Types-Numbers/Multiply-Two-Numbers/Multiply-Two-Numbers.zip",
+    "author": "",
+    "timeCreated": "2023-10-02T08:28:15.697Z",
+    "timeUpdated": "2024-01-13T07:14:34.087Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "5 3",
+            "input": "5\n3",
+            "output": "15",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:28:15.712Z",
+            "timeUpdated": "2023-10-02T08:29:59.690Z"
+        },
+        {
+            "name": "10 7",
+            "input": "10\n7",
+            "output": "70",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:28:15.712Z",
+            "timeUpdated": "2023-10-02T08:30:03.030Z"
+        },
+        {
+            "name": "10000 3",
+            "input": "10000\n3",
+            "output": "30000",
+            "type": "exact",
+            "timeCreated": "2023-10-02T08:28:15.712Z",
+            "timeUpdated": "2023-10-02T08:30:09.054Z"
+        }
+    ],
+    "unitTests": []
+}
